@@ -1,6 +1,8 @@
 TypeRacer is a IOS game developed with Swift. The game will auto-generate a pargraph of words for the user. The user will begin typing to match what each word says to see their current words per minute. The user will be able to compete with their friends to see who can type the fastest. The user will be able to send a text to the friends of their choice with a link to compete against them (the link will download the game if the user has not downloaded it before. If they have it downloaded, it will open up the app to the specified paragraph). Once the users begin typing, they will see a UI showing race cars to see who is currently in the lead.
 
 
+Iteration 0 (week 0) -develop a storyboard which will transition from the base page to another page.-
+
 Iteration 1 (week 1): Develop a program that will auto generate a random paragraph of words
 
 Iteration 2 (week 2): The user will be able to start typing. Check if the pargraph for each word matches what the user typed. Track the amount of words per minute. Display this to the user
