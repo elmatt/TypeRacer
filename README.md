@@ -4,6 +4,7 @@ TypeRacer is a IOS game developed with Swift. The game will auto-generate a parg
 Iteration 0 (week 0) ~~develop a storyboard which will transition from the base page to another page.~~
 
 Iteration 1 (week 1): Develop a program that will auto generate a random paragraph of words
+http://stackoverflow.com/questions/37470339/swift-development-generating-random-sentence/37470662#37470662
 
 Iteration 2 (week 2): The user will be able to start typing. Check if the pargraph for each word matches what the user typed. Track the amount of words per minute. Display this to the user
 
